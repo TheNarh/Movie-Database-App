@@ -6,11 +6,11 @@ body {
     url("https://wallpapercave.com/wp/hPLjH8C.jpg");
   background-repeat: repeat;
 
-  background-image: conic-gradient(
+/*   background-image: conic-gradient(
     rgba(28, 11, 28, 0.76) 45deg,
     rgb(27, 27, 12) 90deg,
     rgb(4, 29, 4) 210deg
-  );
+  ); */
   display: flex;
   align-items: center;
   justify-content: center;
