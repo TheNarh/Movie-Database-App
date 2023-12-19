@@ -2,6 +2,9 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
+   background: rgb(176, 180, 182)
+    url("https://wallpapercave.com/wp/hPLjH8C.jpg");
+  background-repeat: repeat;
 
   background-image: conic-gradient(
     rgba(28, 11, 28, 0.76) 45deg,
