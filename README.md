@@ -5,8 +5,8 @@ A simple web application for searching and displaying movie information using Ja
 
 ## Features
 
-- **Search Movies:** Enter a movie title in the search bar to find relevant movies.
-- **Display Details:** View details such as title, release date, and poster image for each movie.
+- **Search Movies:** Enter a movie title in the search bar to find movies of your choice.
+- **Display Details:** View details such as title, release date, and poster images for each movie.
 - **Responsive Design:** User-friendly interface optimized for various screen sizes.
 
 ## Technologies Used
