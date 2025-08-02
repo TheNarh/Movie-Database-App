@@ -20,7 +20,7 @@ function searchMovies() {
     .catch((error) => console.error("Error fetching data:", error));
 }
 
-// A function to display the movies you chose
+// Function to display the movies you chose
 function displayMovies(movies) {
   const movieList = document.querySelector("#movieList");
   movieList.innerHTML = "";
@@ -55,3 +55,4 @@ function displayMovies(movies) {
     movieList.appendChild(movieCard);
   });
 }
+
